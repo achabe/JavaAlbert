@@ -1,0 +1,6 @@
+variable toto : String = "Hello world";
+variable a : Number = 10;
+variable b : Number = 0,5;
+variable c : Number = a * b;
+
+variable classroom : Tableau = [Régis, Azam, Alexandre, Marcello, Albert, Souhayel, Amer];
